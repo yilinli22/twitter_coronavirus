@@ -1,5 +1,6 @@
-# Coronavirus twitter analysis
-
+#Explanation of results
+I analyzed around 1.1 billion data tweets in the twitter dataset to investigate the spread of coronavirus on twitter. I used shell and MapReduce divide-and-conquer paradigm to create parallel code. I also successfully managed the multilingual text. I visualized two keys for each mention of COVID-19. Inside the .viz directory, each hashtag has both .lang and .country file. Only top ten mmost mentioned languages and countries summary were listed in the file.
+#Coronavirus twitter analysis
 You will scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media.
 
 **Due date:** 
